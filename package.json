@@ -14,7 +14,7 @@
         "url": "https://github.com/eth-srl/UnuglifyJS"
     },
     "dependencies": {
-        "source-map" : "0.1.34",
+        "source-map" : "0.7.3",
         "yargs": "~1.3.3",
         "colors": "~1.0.3"
     },
